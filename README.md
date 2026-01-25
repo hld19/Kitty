@@ -4,6 +4,9 @@
   <img src="build/icons/icon.png" alt="Kitty icon" width="120" />
 </p>
 
+`COBALT API currently doesnt work when u build the app it only works in dev mode sorrs`
+
+
 <p align="center">
 Desktop music metadata manager with a floating dock, artwork tools, and fast library caching.
 </p>
